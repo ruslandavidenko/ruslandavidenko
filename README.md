@@ -1,142 +1,58 @@
-# Hi there, I'm Ruslan Davidenko 👋
+# Advanced GNN Benchmarking
 
-<p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%;">
-</p>
-
-<h1 align="center">AI/ML Research Engineer</h1>
-
-<p align="center">
-Focused on LLM Evaluation • RLHF • NLP • Graph Neural Networks • AI Systems
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔬 AI/ML Research Engineer
-- 🧠 Specialized in LLM Evaluation & RLHF
-- 📊 Building scalable ML evaluation pipelines
-- 🕸️ Working with Graph Neural Networks (GNNs)
-- ⚡ Interested in AI Safety & Alignment
-- 🌍 Open to AI, ML, Software Engineering & Research Opportunities
-
----
-
-## 🌐 Portfolio
-
-🔗 Portfolio Website:  
-https://ruslandavidenko.github.io/
-
-📄 Resume:  
-[Download Resume](https://ruslandavidenko.github.io/Ruslan_Davidenko_CV.pdf)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-- Python
-- PyTorch
-- TensorFlow
-- FastAPI
-- SQL
-- Docker
-
-### AI / ML
-
-- LLM Evaluation
-- RLHF
-- NLP
-- Hugging Face
-- OpenAI API
-- Graph Neural Networks
-- PyTorch Geometric
-- DGL
-
-### Data & Infrastructure
-
-- Pandas
-- NumPy
-- Neo4j
-- ML Benchmarking
-- AI Safety Evaluation
-- Distributed ML Systems
-
----
-
-## 📌 Featured Projects
-
-### 🔹 LLM Evaluation & RLHF Pipeline
-
-Production-style evaluation framework for:
-
-- Hallucination detection
-- RLHF scoring
-- Safety benchmarking
-- Response quality evaluation
-- Structured AI reporting workflows
-
----
-
-### 🔹 Graph Neural Network Benchmarking
-
-Benchmarking framework for:
+Production-style benchmarking framework for Graph Neural Network architectures including:
 
 - GCN
 - GAT
 - GraphSAGE
-- Representation learning
-- Large-scale graph datasets
+- Representation Learning
+- Large-scale Graph Datasets
 
 ---
 
-### 🔹 AI Annotation QA System
+## Features
 
-AI annotation quality assurance workflows involving:
-
-- Ranking systems
-- Relevance scoring
-- Safety review
-- Human feedback alignment
-
----
-
-## 📈 Current Focus
-
-- LLM Evaluation Systems
-- AI Safety & Alignment
-- Benchmarking Infrastructure
-- Graph Representation Learning
-- Scalable ML Systems
-- Research-oriented AI tooling
+✅ Benchmark multiple GNN architectures  
+✅ Performance evaluation workflows  
+✅ Graph representation learning pipelines  
+✅ Scalable experimentation setup  
+✅ Research-oriented benchmarking  
+✅ Production-style ML evaluation structure
 
 ---
 
-## 📫 Contact
+## Tech Stack
 
-- 📧 Email: ruslandavidenko0706@gmail.com
-- 💼 LinkedIn:  
-https://www.linkedin.com/in/ruslan-davidenko-65b9a3409
-
-- 🌐 Portfolio:  
-https://ruslandavidenko.github.io/
-
----
-
-## ⚡ GitHub Goals
-
-Building high-quality AI engineering repositories demonstrating:
-
-- Modern ML workflows
-- Reproducible experimentation
-- Production-grade AI systems
-- AI evaluation infrastructure
-- Research-focused tooling
+- Python
+- PyTorch
+- PyTorch Geometric
+- DGL
+- NumPy
+- Pandas
+- NetworkX
 
 ---
 
-<p align="center">
-  ⭐ Building the future of AI systems and evaluation frameworks.
-</p>
+## Research Focus
+
+This repository focuses on benchmarking and evaluating graph-based machine learning systems for scalable AI research workflows.
+
+---
+
+## Future Improvements
+
+- Distributed benchmarking
+- GPU optimization
+- Graph dataset visualization
+- Automated reporting
+- Hyperparameter tuning
+- Experiment tracking
+
+---
+
+## Author
+
+Ruslan Davidenko  
+AI/ML Research Engineer
+
+Portfolio: https://ruslandavidenko.github.io/
