@@ -29,7 +29,7 @@ Focused on LLM Evaluation • RLHF • NLP • Graph Neural Networks • AI Syst
 https://ruslandavidenko.github.io/
 
 📄 Resume:  
-[Download Resume](https://ruslandavidenko.github.io/resume.pdf)
+[Download Resume](https://ruslandavidenko.github.io/Ruslan_Davidenko_CV.pdf)
 
 ---
 
