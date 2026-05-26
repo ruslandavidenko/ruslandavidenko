@@ -14,7 +14,7 @@ I build reproducible AI evaluation workflows, Linux automation systems, benchmar
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruslandavidenko&show_icons=true)
+![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslandavidenko&show_icons=true&theme=default&hide_border=true)
 
 </div>
 
