@@ -1,45 +1,49 @@
-# Hi, I'm Ruslan Davidenko 👋
+<div align="center">
 
-## AI Evaluation & Systems Engineer
+# 👋 Hi there, I'm
+
+# RUSLAN DAVIDENKO
+
+### AI Evaluation & Systems Engineer
 
 I build reproducible AI evaluation workflows, Linux automation systems, benchmarking environments, and developer tooling.
 
+</div>
+
 ---
 
-## Technical Focus
+<div align="center">
+
+| 🧠 AI Agent Evaluation | 🐳 Linux & Docker | ⚡ Python Automation |
+|---|---|---|
+| 📊 Benchmarking Systems | 💻 Bash & CLI Tooling | 🔁 Reproducible Environments |
+
+</div>
+
+---
+
+# 🔧 Engineering Focus
 
 - AI Agent Evaluation
 - Linux & Docker Workflows
-- Python Automation
 - Benchmarking Systems
-- Bash & CLI Tooling
-- Reproducible Engineering Environments
+- Reproducible Environments
+- Python Automation
+- Developer Tooling
 
 ---
 
-## Technologies
+# 🚀 Featured Projects
+
+## Terminal Bench – Log Summary Audit
+
+Deterministic Linux log analysis benchmark task for AI-agent evaluation using Docker and Terminal-Bench.
+
+🔗 https://github.com/ruslandavidenko/terminal-bench-log-summary-audit
+
+---
+
+# 🛠️ Technologies
 
 ```text
 Python • Bash • Docker • Linux • Git • React • TypeScript • Pytest
-```
-
----
-
-## Current Work
-
-- Building AI evaluation benchmarks
-- Developing automation tooling
-- Creating reproducible testing environments
-- Working on developer infrastructure projects
-
----
-
-## Featured Project
-
-🔹 [Terminal Bench – Log Summary Audit](https://github.com/ruslandavidenko/terminal-bench-log-summary-audit)
-
----
-
-## Engineering Philosophy
-
-> “Good engineering is reproducible, testable, and understandable.”
