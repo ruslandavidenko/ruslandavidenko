@@ -4,9 +4,17 @@
 
 # RUSLAN DAVIDENKO
 
-### AI Evaluation & Systems Engineer
+### AI Systems & Evaluation Engineer
 
 I build reproducible AI evaluation workflows, Linux automation systems, benchmarking environments, and developer tooling.
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruslandavidenko&show_icons=true)
 
 </div>
 
@@ -47,3 +55,21 @@ Deterministic Linux log analysis benchmark task for AI-agent evaluation using Do
 
 ```text
 Python • Bash • Docker • Linux • Git • React • TypeScript • Pytest
+```
+
+---
+
+# 📌 Current Work
+
+- Building AI evaluation benchmarks
+- Developing automation tooling
+- Creating reproducible testing environments
+- Working on developer infrastructure systems
+
+---
+
+<div align="center">
+
+> “Good engineering is reproducible, testable, and understandable.”
+
+</div>
