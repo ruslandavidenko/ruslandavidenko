@@ -1,70 +1,78 @@
 <div align="center">
 
-# 👋 Hi there, I'm
+# AI Annotation QA System
 
-# RUSLAN DAVIDENKO
+### Quality Assurance & Evaluation Workflows for AI Training Pipelines
 
-### AI Systems & Evaluation Engineer
-
-I build reproducible AI evaluation workflows, Linux automation systems, benchmarking environments, and developer tooling.
+AI annotation quality assurance workflows for ranking, relevance scoring, factuality checks, and safety evaluation.
 
 </div>
 
 ---
 
-<div align="center">
+# 🔍 Overview
 
+This repository contains AI annotation QA and evaluation workflows used for validating AI-generated outputs and human feedback pipelines.
 
-<div align="center">
+Focused areas include:
 
-| 🧠 AI Agent Evaluation | 🐳 Linux & Docker | ⚡ Python Automation |
-|---|---|---|
-| 📊 Benchmarking Systems | 💻 Bash & CLI Tooling | 🔁 Reproducible Environments |
-
-</div>
-
----
-
-# 🔧 Engineering Focus
-
-- AI Agent Evaluation
-- Linux & Docker Workflows
-- Benchmarking Systems
-- Reproducible Environments
-- Python Automation
-- Developer Tooling
+- Ranking systems
+- Relevance evaluation
+- Safety review
+- Hallucination detection
+- Human feedback alignment
 
 ---
 
-# 🚀 Featured Projects
+# 🔧 Features
 
-## Terminal Bench – Log Summary Audit
-
-Deterministic Linux log analysis benchmark task for AI-agent evaluation using Docker and Terminal-Bench.
-
-🔗 https://github.com/ruslandavidenko/terminal-bench-log-summary-audit
+- Annotation validation workflows
+- Evaluation scoring systems
+- AI safety checks
+- Quality benchmarking
+- Structured reporting pipelines
+- Human feedback integration
 
 ---
 
-# 🛠️ Technologies
+# 🛠️ Tech Stack
 
 ```text
-Python • Bash • Docker • Linux • Git • React • TypeScript • Pytest
+Python • Pandas • NumPy • OpenAI API • NLP Tooling • Evaluation Pipelines
 ```
 
 ---
 
-# 📌 Current Work
+# 🚀 Use Cases
 
-- Building AI evaluation benchmarks
-- Developing automation tooling
-- Creating reproducible testing environments
-- Working on developer infrastructure systems
+- RLHF workflows
+- LLM evaluation
+- Human annotation review
+- Safety benchmarking
+- Response quality analysis
 
 ---
 
-<div align="center">
+# 📈 Planned Additions
 
-> “Good engineering is reproducible, testable, and understandable.”
+- Evaluation scripts
+- Notebook demos
+- Annotation dashboards
+- Scoring visualizations
+- Benchmark reports
 
-</div>
+---
+
+# 📌 Status
+
+🚧 Active Development
+
+---
+
+# 👨‍💻 Author
+
+**Ruslan Davidenko**  
+AI Systems & Evaluation Engineer
+
+Portfolio:  
+https://ruslandavidenko.github.io/
