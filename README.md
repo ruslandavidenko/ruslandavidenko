@@ -14,7 +14,6 @@ I build reproducible AI evaluation workflows, Linux automation systems, benchmar
 
 <div align="center">
 
-</div>
 
 ---
 
