@@ -1,142 +1,45 @@
-# Hi there, I'm Ruslan Davidenko 👋
+# Hi, I'm Ruslan Davidenko 👋
 
-<p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%;">
-</p>
+## AI Evaluation & Systems Engineer
 
-<h1 align="center">AI/ML Research Engineer</h1>
-
-<p align="center">
-Focused on LLM Evaluation • RLHF • NLP • Graph Neural Networks • AI Systems
-</p>
+I build reproducible AI evaluation workflows, Linux automation systems, benchmarking environments, and developer tooling.
 
 ---
 
-## 🚀 About Me
+## Technical Focus
 
-- 🔬 AI/ML Research Engineer
-- 🧠 Specialized in LLM Evaluation & RLHF
-- 📊 Building scalable ML evaluation pipelines
-- 🕸️ Working with Graph Neural Networks (GNNs)
-- ⚡ Interested in AI Safety & Alignment
-- 🌍 Open to AI, ML, Software Engineering & Research Opportunities
-
----
-
-## 🌐 Portfolio
-
-🔗 Portfolio Website:  
-https://ruslandavidenko.github.io/
-
-📄 Resume:  
-[Download Resume](https://ruslandavidenko.github.io/Ruslan_Davidenko_CV.pdf)
+- AI Agent Evaluation
+- Linux & Docker Workflows
+- Python Automation
+- Benchmarking Systems
+- Bash & CLI Tooling
+- Reproducible Engineering Environments
 
 ---
 
-## 🛠️ Tech Stack
+## Technologies
 
-### Languages & Frameworks
-
-- Python
-- PyTorch
-- TensorFlow
-- FastAPI
-- SQL
-- Docker
-
-### AI / ML
-
-- LLM Evaluation
-- RLHF
-- NLP
-- Hugging Face
-- OpenAI API
-- Graph Neural Networks
-- PyTorch Geometric
-- DGL
-
-### Data & Infrastructure
-
-- Pandas
-- NumPy
-- Neo4j
-- ML Benchmarking
-- AI Safety Evaluation
-- Distributed ML Systems
+```text
+Python • Bash • Docker • Linux • Git • React • TypeScript • Pytest
+```
 
 ---
 
-## 📌 Featured Projects
+## Current Work
 
-### 🔹 LLM Evaluation & RLHF Pipeline
-
-Production-style evaluation framework for:
-
-- Hallucination detection
-- RLHF scoring
-- Safety benchmarking
-- Response quality evaluation
-- Structured AI reporting workflows
+- Building AI evaluation benchmarks
+- Developing automation tooling
+- Creating reproducible testing environments
+- Working on developer infrastructure projects
 
 ---
 
-### 🔹 Graph Neural Network Benchmarking
+## Featured Project
 
-Benchmarking framework for:
-
-- GCN
-- GAT
-- GraphSAGE
-- Representation learning
-- Large-scale graph datasets
+🔹 [Terminal Bench – Log Summary Audit](https://github.com/ruslandavidenko/terminal-bench-log-summary-audit)
 
 ---
 
-### 🔹 AI Annotation QA System
+## Engineering Philosophy
 
-AI annotation quality assurance workflows involving:
-
-- Ranking systems
-- Relevance scoring
-- Safety review
-- Human feedback alignment
-
----
-
-## 📈 Current Focus
-
-- LLM Evaluation Systems
-- AI Safety & Alignment
-- Benchmarking Infrastructure
-- Graph Representation Learning
-- Scalable ML Systems
-- Research-oriented AI tooling
-
----
-
-## 📫 Contact
-
-- 📧 Email: ruslandavidenko0706@gmail.com
-- 💼 LinkedIn:  
-https://www.linkedin.com/in/ruslan-davidenko-65b9a3409
-
-- 🌐 Portfolio:  
-https://ruslandavidenko.github.io/
-
----
-
-## ⚡ GitHub Goals
-
-Building high-quality AI engineering repositories demonstrating:
-
-- Modern ML workflows
-- Reproducible experimentation
-- Production-grade AI systems
-- AI evaluation infrastructure
-- Research-focused tooling
-
----
-
-<p align="center">
-  ⭐ Building the future of AI systems and evaluation frameworks.
-</p>
+> “Good engineering is reproducible, testable, and understandable.”
