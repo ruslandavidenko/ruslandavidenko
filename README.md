@@ -15,8 +15,6 @@ I build reproducible AI evaluation workflows, Linux automation systems, benchmar
 <div align="center">
 
 
----
-
 <div align="center">
 
 | 🧠 AI Agent Evaluation | 🐳 Linux & Docker | ⚡ Python Automation |
